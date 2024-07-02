@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-groq-ai",
-    "slug": "rn-groq-ai",
+    "name": "my-first-rn-project",
+    "slug": "my-first-rn-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
